@@ -17,3 +17,8 @@ body{
     background-size: cover;
     background-repeat: none;
 }
+.hero3{
+    background-image: url(/imgs/bg-3.png);
+    background-size: cover;
+    background-repeat: none;
+}
