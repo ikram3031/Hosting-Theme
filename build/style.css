@@ -1,0 +1,19 @@
+body{
+    background-color: #f6fbff;
+}
+
+.hero{
+    background-image: url(/imgs/hero_bg.png);
+    background-size: cover;
+    background-repeat: none;
+}
+.header{
+    background-image: url(/imgs/header.png);
+    background-repeat: none;
+    background-position: -20% 30%;
+}
+.hero2{
+    background-image: url(/imgs/bg-2.png);
+    background-size: cover;
+    background-repeat: none;
+}
