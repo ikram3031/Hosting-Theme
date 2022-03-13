@@ -22,3 +22,19 @@ body{
     background-size: cover;
     background-repeat: none;
 }
+
+/* ****** Home 2 ****** */
+
+.home2{
+    background-image: url(/imgs/header2.png);
+    background-repeat: none;
+    background-size: cover;
+}
+
+/* ****** Home 4 ****** */
+
+.home4{
+    background-image: url(/imgs/home4.png);
+    background-repeat: none;
+    background-size: cover;
+}
