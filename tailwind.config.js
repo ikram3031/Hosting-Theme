@@ -20,9 +20,6 @@ module.exports = {
      '16': '4rem',
     },
     extend: {
-      backgroundImage:{
-        'hero': "url(/imgs/hero_bg.png)"
-      },
     },
   },
   plugins: [],
