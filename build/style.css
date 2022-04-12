@@ -62,3 +62,27 @@ body{
     background-repeat: none;
     background-size: cover;
 }
+
+.testimonial{
+    background-image: url(/imgs/testi.png);
+    background-repeat: none;
+    background-position: top left;
+    background-size: contain;
+}
+
+.home4_footer{
+    background-image: url(/imgs/footer.png);
+    background-repeat: none;
+    background-size: cover;
+}
+
+.home4_footer_payment_method{
+    background-image: url(/imgs/Vector.png);
+    background-repeat: none;
+    background-size: cover;
+}
+.home4_copyright{
+    background-image: url(/imgs/copyright.png);
+    background-repeat: none;
+    background-size: cover;
+}
