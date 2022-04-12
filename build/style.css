@@ -44,3 +44,21 @@ body{
     background-repeat: none;
     background-size: cover;
 }
+
+.home4_affiliate {
+    background-image: url(/imgs/rec.png);
+    background-repeat: none;
+    background-size: cover;
+}
+
+.home4_packages {
+    background-image: url(/imgs/rec_4.png);
+    background-repeat: none;
+    background-size: cover;
+}
+
+.home4_testi {
+    background-image: url(/imgs/rec3.png);
+    background-repeat: none;
+    background-size: cover;
+}
