@@ -1,5 +1,5 @@
 body{
-    background-color: #f6fbff;
+    background-color: white;
 }
 
 .hero{
@@ -32,6 +32,11 @@ body{
 }
 
 /* ****** Home 3 ****** */
+.why {
+    background-image: url(/imgs/home3_why.png);
+    background-repeat: none;
+    background-size: cover;
+}
 
 /* ****** Home 4 ****** */
 
